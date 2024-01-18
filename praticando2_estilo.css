@@ -1,0 +1,32 @@
+body {
+    background: yellow;
+    font: normal 15pt Calibri;
+    text-align: center;
+}
+
+header {
+    color: white;
+    text-shadow: 0.1em 0.1em 0.2em black;
+}
+
+section{
+    background: white;
+    border-radius: 10px;
+    padding: 30px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.226);
+}
+
+div{
+    text-align: center;
+    padding: 8px;
+    
+}
+
+footer{ 
+    font: italic 10pt Calibri;
+    color: white;
+    font-weight: bold;
+    text-shadow: 0.1em 0.1em 0.2em black;
+}

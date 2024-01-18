@@ -1,0 +1,42 @@
+body {
+    background: rgb(230, 129, 171);
+    font: normal 15pt Calibri;
+    text-align: center;
+}
+
+header {
+    color: white;
+    text-shadow: 0.1em 0.1em 0.2em black;
+}
+
+section{
+    background: rgba(255, 255, 255, 0.658);
+    border-radius: 10px;
+    padding: 20px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.226);
+    line-height: 50px;
+}
+
+div#dados {
+    text-align: left;
+    padding: 1px;
+}
+
+select#seln {
+    width: 150px;
+}
+
+div#saida {
+    text-align: left;
+    padding: 0px;
+    line-height: 10px;
+}
+
+footer { 
+    font: italic 10pt Calibri;
+    color: white;
+    font-weight: bold;
+    text-shadow: 0.1em 0.1em 0.2em black;
+}
